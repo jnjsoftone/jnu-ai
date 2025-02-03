@@ -13,6 +13,9 @@ cd C:/JnJ/Developments/Utils
 
 # <syntax> xcli -e init -r "[REPO_NAME]||[USER_NAME]||[TEMPLATE_NAME]||[DESCRIPTION]"
 xcli -e init -r "jnu-ai||jnjsoftone||ts-swc-npm||Jnjsoft Nodejs Utility Library for AI(api, web) Support Functions in Typescript"
+
+# package install
+npm install @anthropic-ai/sdk @google/generative-ai
 ```
 ## functions
 
