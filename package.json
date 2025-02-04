@@ -48,7 +48,9 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.36.3",
     "@google/generative-ai": "^0.21.0",
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "jnu-abc": "^0.0.4",
+    "jnu-web": "^0.0.2"
   },
   "type": "module"
 }
